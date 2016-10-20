@@ -1,4 +1,4 @@
 # Carousel
 Carousel project
 
-A simple carousel using jquery and incorporated code
+A simple carousel using javascript and incorporated code
